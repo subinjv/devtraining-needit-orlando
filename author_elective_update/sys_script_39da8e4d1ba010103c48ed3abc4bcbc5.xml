@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_58872_needit_needit</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Needit when needed field date</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script/>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 16:24:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39da8e4d1ba010103c48ed3abc4bcbc5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Needit when needed field date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_39da8e4d1ba010103c48ed3abc4bcbc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:35:17</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=39da8e4d1ba010103c48ed3abc4bcbc5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>300f8751db92b740b847ac44d49619b6</instance_id>
+        <instance_name>dev88708</instance_name>
+        <name>sys_script_39da8e4d1ba010103c48ed3abc4bcbc5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script"><sys_script action="INSERT_OR_UPDATE"><abort_action>false</abort_action><access>package_private</access><action_delete>false</action_delete><action_insert>true</action_insert><action_query>false</action_query><action_update>false</action_update><active>true</active><add_message>false</add_message><advanced>false</advanced><change_fields>false</change_fields><client_callable>false</client_callable><collection>x_58872_needit_needit</collection><condition/><description/><execute_function>false</execute_function><filter_condition/><is_rest>false</is_rest><message/><name>Needit when needed field date</name><order>100</order><priority>100</priority><rest_method/><rest_method_text/><rest_service/><rest_service_text/><rest_variables/><role_conditions/><script/><sys_class_name>sys_script</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 16:24:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>39da8e4d1ba010103c48ed3abc4bcbc5</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Needit when needed field date</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_39da8e4d1ba010103c48ed3abc4bcbc5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 16:35:17</sys_updated_on><template/><when>before</when></sys_script><sys_translated_text action="delete_multiple" query="documentkey=39da8e4d1ba010103c48ed3abc4bcbc5"/></record_update>]]></payload>
+        <payload_hash>1759544703</payload_hash>
+        <record_name>Needit when needed field date</record_name>
+        <reverted_from/>
+        <source>cd801dc51b2010103c48ed3abc4bcbb5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 16:35:17</sys_created_on>
+        <sys_id>c7fd8e8d1ba010103c48ed3abc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d1179a8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:35:17</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>8ffd8e8d5ea010100a677b7e9b4f12b5</update_guid>
+        <update_guid_history>8ffd8e8d5ea010100a677b7e9b4f12b5:1759544703,80fd8acd14a01010a436843de9779183:2120463206,26ad8acdb0a010102e6e983ee2b45d7c:1759544703,fe8d0a8d0aa0101090aacd56998d463b:2120463206,997b028d3ca010101638576f47c01e45:1405287555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 16:35:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>0da5935875a14c7a80fa558d4bda9204</sys_id>
+        <sys_metadata>39da8e4d1ba010103c48ed3abc4bcbc5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit when needed field date</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">45007fcd0fa83200cd674f8ce1050ebc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_39da8e4d1ba010103c48ed3abc4bcbc5</sys_update_name>
+        <sys_update_version display_value="sys_script_39da8e4d1ba010103c48ed3abc4bcbc5">c7fd8e8d1ba010103c48ed3abc4bcbb6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:35:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
