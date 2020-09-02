@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Assert the following:
+The following fields are mandatory: Short description, Caller
+With a failure timeout of 5 Seconds</description>
+        <display_name>Field State Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>fc8d8a461b3210103c48ed3abc4bcbbb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_fc8d8a461b3210103c48ed3abc4bcbbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:54:54</sys_updated_on>
+        <table>incident</table>
+        <test display_value="">20d40a461b3210103c48ed3abc4bcb19</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=fc8d8a461b3210103c48ed3abc4bcbbb"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>410</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>1f9dc6461b3210103c48ed3abc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value/>
+        <variable display_value="">787a9b535320220002c6435723dc3455</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>579dc6461b3210103c48ed3abc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">80f953535320220002c6435723dc340f</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>210</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>5b9dc6461b3210103c48ed3abc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value/>
+        <variable display_value="">e81ad3535320220002c6435723dc340c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>939dc6461b3210103c48ed3abc4bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value>short_description,caller_id</value>
+        <variable display_value="">6e5a1b535320220002c6435723dc3498</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>979dc6461b3210103c48ed3abc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value/>
+        <variable display_value="">592a17535320220002c6435723dc34d7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>d39dc6461b3210103c48ed3abc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value/>
+        <variable display_value="">0cd9df135320220002c6435723dc3426</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>df9dc6461b3210103c48ed3abc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">b1fefcde73633300b19898b8caf6a7af</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key>
+        <order>310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 15:28:50</sys_created_on>
+        <sys_id>df9dc6461b3210103c48ed3abc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 15:28:50</sys_updated_on>
+        <value/>
+        <variable display_value="">e63a97535320220002c6435723dc34b8</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>300f8751db92b740b847ac44d49619b6</instance_id>
+        <instance_name>dev88708</instance_name>
+        <name>sys_atf_step_fc8d8a461b3210103c48ed3abc4bcbbb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Assert the following:
+The following fields are mandatory: Short description, Caller
+With a failure timeout of 5 Seconds</description><display_name>Field State Validation</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>fc8d8a461b3210103c48ed3abc4bcbbb</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Field State Validation</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_fc8d8a461b3210103c48ed3abc4bcbbb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 18:54:54</sys_updated_on><table>incident</table><test display_value="">20d40a461b3210103c48ed3abc4bcb19</test><timeout>1970-01-01 00:00:05</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=fc8d8a461b3210103c48ed3abc4bcbbb"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>410</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>1f9dc6461b3210103c48ed3abc4bcb4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value/><variable display_value="">787a9b535320220002c6435723dc3455</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>579dc6461b3210103c48ed3abc4bcb4d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value>incident</value><variable display_value="">80f953535320220002c6435723dc340f</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>210</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>5b9dc6461b3210103c48ed3abc4bcb4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value/><variable display_value="">e81ad3535320220002c6435723dc340c</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>939dc6461b3210103c48ed3abc4bcb4d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value>short_description,caller_id</value><variable display_value="">6e5a1b535320220002c6435723dc3498</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>979dc6461b3210103c48ed3abc4bcb4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value/><variable display_value="">592a17535320220002c6435723dc34d7</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>d39dc6461b3210103c48ed3abc4bcb4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value/><variable display_value="">0cd9df135320220002c6435723dc3426</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>df9dc6461b3210103c48ed3abc4bcb4b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value>standard_ui</value><variable display_value="">b1fefcde73633300b19898b8caf6a7af</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fc8d8a461b3210103c48ed3abc4bcbbb</document_key><order>310</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-24 15:28:50</sys_created_on><sys_id>df9dc6461b3210103c48ed3abc4bcb4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-24 15:28:50</sys_updated_on><value/><variable display_value="">e63a97535320220002c6435723dc34b8</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1767741983</payload_hash>
+        <record_name>Field State Validation</record_name>
+        <reverted_from/>
+        <source>2b1e27b11bb010103c48ed3abc4bcb87</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 18:54:54</sys_created_on>
+        <sys_id>a5cc320a1bb210103c48ed3abc4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17421d2c0c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:54:54</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>edcc320a09b2101026364fba97c0aa94</update_guid>
+        <update_guid_history>edcc320a09b2101026364fba97c0aa94:-1767741983,e9cc320aecb210108d8a6e8e7630af7e:-2995422,579d8a8ac73210108ceab2fee56d21ae:-2120275907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 18:54:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>7c831a76aafc4790ab75ac8b2b62f900</sys_id>
+        <sys_metadata>fc8d8a461b3210103c48ed3abc4bcbbb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_fc8d8a461b3210103c48ed3abc4bcbbb</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_fc8d8a461b3210103c48ed3abc4bcbbb">a5cc320a1bb210103c48ed3abc4bcb95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 18:54:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
